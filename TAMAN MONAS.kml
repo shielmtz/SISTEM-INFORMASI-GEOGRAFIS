@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TAMAN MONAS</name>
+    <NetworkLink>
+      <name>TAMAN KOTA JAKARTA</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1miqBQpOcTpv1XSjao97V3xl7JQPNdVA&lid=b1L8yO5kszg]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
