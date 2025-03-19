@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KOTA ADMINISTRASI DEPOK, JAWA BARAT</name>
+    <NetworkLink>
+      <name>PROVINSI</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1v3pl06nY3ZE3NTfeRtfGbSRUlNZmtzk&lid=H5351Z8EYRA]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
